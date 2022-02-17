@@ -3,8 +3,8 @@ import json
 import pandas as pd
 
 #need access to api from a node or locally on a node
-#url = "http://127.0.0.1:9650/ext/P"
-url = "https://api.avax.network:9650/ext/P"
+url = "http://127.0.0.1:9650/ext/P"
+#url = "https://api.avax.network:9650/ext/P"
 
 headers = {'Content-Type': 'application/json'}
 def getDelegators():
@@ -47,7 +47,7 @@ if __name__ =="__main__":
     delegators,validators = getDelegators()
     df = pd.DataFrame(delegators)
     columns = ["startTime", "endTime", "stakeAmount", "nodeID", "owner", "potentialReward","delegationFee"]
-    df["netReward"] = df["potentialReward"]*(100-df["delegationFee"])/100
+    df["netReward"] = df["potentialReward"]*(100-df["delegationFee"])/(100000000000)
     columns = ["startTime", "endTime", "stakeAmount", "nodeID", "owner", "potentialReward","delegationFee","netReward"]
     import datetime
     file = "snapchot_avalanche_delegator_"+str(datetime.datetime.now())[0:-10]
