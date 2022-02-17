@@ -1,0 +1,32 @@
+|    |   startTime |    endTime |    stakeAmount | nodeID                                   | owner                                         |   potentialReward |   delegationFee |   netReward |
+|---:|------------:|-----------:|---------------:|:-----------------------------------------|:----------------------------------------------|------------------:|----------------:|------------:|
+|  0 |  1643465094 | 1645280038 |   400000000000 | NodeID-8PKikqQVFgRYLUwwNc2HHodNMyP6Tw6Qy | P-avax1plt7x38xugl2c7ze26k0xkhcelpjsff3fecfcd |        1886823429 |               2 |    1.84909  |
+|  1 |  1643670494 | 1645485478 |    56405221500 | NodeID-8PKikqQVFgRYLUwwNc2HHodNMyP6Tw6Qy | P-avax1mac45e2566mt27um47jlu5fl2tlx2huv9ppnna |         265829532 |               2 |    0.260513 |
+|  2 |  1643823424 | 1645638407 |   164100000000 | NodeID-8PKikqQVFgRYLUwwNc2HHodNMyP6Tw6Qy | P-avax1ydern3fmle0cvq053daql22kheu7xfaujve85m |         773301549 |               2 |    0.757836 |
+|  3 |  1643141617 | 1645887054 |    91529761025 | NodeID-8PKikqQVFgRYLUwwNc2HHodNMyP6Tw6Qy | P-avax15pprfsu3yktgvagfvwqggm2mzcgh3sh65wrect |         657072807 |               2 |    0.643931 |
+|  4 |  1642362155 | 1645988424 |   850000000000 | NodeID-8PKikqQVFgRYLUwwNc2HHodNMyP6Tw6Qy | P-avax1fqt7e7tfv7nch6naaanmlqzqxfqp7rc8ecmhkv |        8128278071 |               2 |    7.96571  |
+|  5 |  1644294740 | 1648784506 |    97596493069 | NodeID-8PKikqQVFgRYLUwwNc2HHodNMyP6Tw6Qy | P-avax1hs0kp7f7udef5uy20ntswrfeqn3cf2kmvd37u2 |        1155366409 |               2 |    1.13226  |
+|  6 |  1642244184 | 1649604627 |    25150000000 | NodeID-8PKikqQVFgRYLUwwNc2HHodNMyP6Tw6Qy | P-avax170a7gs048glnas5mduyk6m8n0pqgdat3ptgfd2 |         499482948 |               2 |    0.489493 |
+|  7 |  1643102369 | 1649605854 |    30880318483 | NodeID-8PKikqQVFgRYLUwwNc2HHodNMyP6Tw6Qy | P-avax1e0feakxhv80r5ky72hcvumj6fxmv2x5ndja8pe |         537440791 |               2 |    0.526692 |
+|  8 |  1642961651 | 1649605854 |    25000000000 | NodeID-8PKikqQVFgRYLUwwNc2HHodNMyP6Tw6Qy | P-avax12xnhckh5963ypgh0hy3rszccstnejymg23v62q |         444936294 |               2 |    0.436038 |
+|  9 |  1643754098 | 1649605854 |    30000000000 | NodeID-8PKikqQVFgRYLUwwNc2HHodNMyP6Tw6Qy | P-avax1ndt26ytl9k5xmp7gxywmz5ajptn8qvsq8ystvp |         467358901 |               2 |    0.458012 |
+| 10 |  1643297745 | 1649605854 |    95000000000 | NodeID-8PKikqQVFgRYLUwwNc2HHodNMyP6Tw6Qy | P-avax1qvkkp3h7gpkekqr8pywx7qhs5fc2a30lznsuxz |        1601568242 |               2 |    1.56954  |
+| 11 |  1643977494 | 1649605854 |    27615438571 | NodeID-8PKikqQVFgRYLUwwNc2HHodNMyP6Tw6Qy | P-avax13y0vyrscu5s5pqhjfdszxws8d9vl99cqn8a7c5 |         413108819 |               2 |    0.404847 |
+| 12 |  1643404904 | 1645219801 |    28064567252 | NodeID-4QNnLZTYQPbZcFUoXmGoi2sWfdWFZ49aU | P-avax1qa2yuljs00pkc2tulase3lmpm7xfp7fzyulexu |         132380739 |               2 |    0.129733 |
+| 13 |  1643558392 | 1645373348 |   999998000000 | NodeID-4QNnLZTYQPbZcFUoXmGoi2sWfdWFZ49aU | P-avax1s3x46t4zemte6t8esqjzc34dqtfzkq6ep48zm3 |        4716801240 |               2 |    4.62247  |
+| 14 |  1642808641 | 1646132414 |   300000000000 | NodeID-4QNnLZTYQPbZcFUoXmGoi2sWfdWFZ49aU | P-avax1hkkrnvhuzcvn7vxtd8sv7vjgne2e0wrkpmuf0t |        2624087178 |               2 |    2.57161  |
+| 15 |  1645032262 | 1646241862 | 27491610549152 | NodeID-4QNnLZTYQPbZcFUoXmGoi2sWfdWFZ49aU | P-avax19zfygxaf59stehzedhxjesads0p5jdvfeedal0 |       85829684395 |               2 |   84.1131   |
+| 16 |  1644441817 | 1646256809 |   217898000000 | NodeID-4QNnLZTYQPbZcFUoXmGoi2sWfdWFZ49aU | P-avax17nfugqy4dua7chjszwzwlkv5c7dlf5w84dftn7 |        1025011816 |               2 |    1.00451  |
+| 17 |  1644613653 | 1646428622 |    40323552671 | NodeID-4QNnLZTYQPbZcFUoXmGoi2sWfdWFZ49aU | P-avax14pstshdjedxza47qpnzcp2hqx5a0req24hytwl |         189671609 |               2 |    0.185878 |
+| 18 |  1644655919 | 1646470764 |   250470510618 | NodeID-4QNnLZTYQPbZcFUoXmGoi2sWfdWFZ49aU | P-avax135qhr9406e4re2hphkqgfnkjdha658yvvh2f0y |        1178046572 |               2 |    1.15449  |
+| 19 |  1644764568 | 1646579421 |    25728099846 | NodeID-4QNnLZTYQPbZcFUoXmGoi2sWfdWFZ49aU | P-avax1e22mfwkekhwfjefxyshgmtkzayhkrx3e2jxh77 |         121004829 |               2 |    0.118585 |
+| 20 |  1644969897 | 1646784837 |    30000000000 | NodeID-4QNnLZTYQPbZcFUoXmGoi2sWfdWFZ49aU | P-avax1nkmm35psdmhhufd90ys0w9w0a0r4m3sg64qc3g |         141077926 |               2 |    0.138256 |
+| 21 |  1642446935 | 1649605997 |   144393468864 | NodeID-4QNnLZTYQPbZcFUoXmGoi2sWfdWFZ49aU | P-avax1pxt336hngdjkglmm4gj4jmrvg55kgs8uhjaqmk |        2785627707 |               2 |    2.72992  |
+| 22 |  1644269436 | 1649605997 |    29000930637 | NodeID-4QNnLZTYQPbZcFUoXmGoi2sWfdWFZ49aU | P-avax1q32chp0y8tl7tmnnk639tfcln5nf2ge3gfl2vm |         410204595 |               2 |    0.402001 |
+| 23 |  1642272463 | 1649605997 |   728297649063 | NodeID-4QNnLZTYQPbZcFUoXmGoi2sWfdWFZ49aU | P-avax1alkvrqvhsn5k924s485s6r9fvuz6gdt0dqadds |       14408611312 |               2 |   14.1204   |
+| 24 |  1644904271 | 1649605997 |   100000000000 | NodeID-4QNnLZTYQPbZcFUoXmGoi2sWfdWFZ49aU | P-avax1l8nn3emxamwvsr7x2rauvwshsj5hmzgppju9qp |        1240313640 |               2 |    1.21551  |
+| 25 |  1642718587 | 1649605997 |    25603439278 | NodeID-4QNnLZTYQPbZcFUoXmGoi2sWfdWFZ49aU | P-avax1s5m3seyxnjc6qtvj2urc0secksp9qrwgq3l4ar |         474380614 |               2 |    0.464893 |
+| 26 |  1642271869 | 1649605997 |    25000000000 | NodeID-4QNnLZTYQPbZcFUoXmGoi2sWfdWFZ49aU | P-avax1eqvnp7w2ms6lnz7983kq6cs7dh0vauxvmywuv7 |         494640846 |               2 |    0.484748 |
+| 27 |  1642271671 | 1649605997 |  5074644266674 | NodeID-4QNnLZTYQPbZcFUoXmGoi2sWfdWFZ49aU | P-avax1tq4z2zc2ahtdd2t8er3gww3gpz2a3dfawkt3uh |      100407945706 |               2 |   98.3998   |
+| 28 |  1642453460 | 1649605997 |    29276534158 | NodeID-4QNnLZTYQPbZcFUoXmGoi2sWfdWFZ49aU | P-avax13wq2dxxwq5g459358uhparm7mxtk05e98p8exj |         564263147 |               2 |    0.552978 |
+| 29 |  1644442056 | 1649605997 |    58500000000 | NodeID-4QNnLZTYQPbZcFUoXmGoi2sWfdWFZ49aU | P-avax1n33j6wx28jz82c0cjnfh4rqc9p8tq99t94m2n5 |         799397160 |               2 |    0.783409 |
