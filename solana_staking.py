@@ -104,7 +104,7 @@ if __name__ == "__main__":
     all_data_reward = getAllInflationRewards(address_list,range(first_epoch,current_epoch))
     df2["totalRewards"]=pd.DataFrame(all_data_reward).T["totalAmount"].astype(int)
     df2["currentDuration"]=df2["stakeDeactivationEpoch"].apply(lambda x:min(current_epoch,x))-df2["stakeActivationEpoch"]
-    columns = ["stake","balance","stakeActivationEpoch","stakeDeactivationEpoch","totalRewards","currentDuration"]
+    columns = ["withdrawer","stake","balance","stakeActivationEpoch","stakeDeactivationEpoch","totalRewards","currentDuration"]
     file = "snapchot_solana_delegator_epoch"+str(current_epoch)+"_"+str(datetime.datetime.now())[0:-16]
     print("saving snapchot to ",file)
     df2[columns].to_markdown(file)
