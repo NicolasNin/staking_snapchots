@@ -50,7 +50,7 @@ if __name__ =="__main__":
     df["netReward"] = df["potentialReward"]*(100-df["delegationFee"])/(100000000000)
     columns = ["startTime", "endTime", "stakeAmount", "nodeID", "owner", "potentialReward","delegationFee","netReward"]
     import datetime
-    file = "snapchot_avalanche_delegator_"+str(datetime.datetime.now())[0:-10]
+    file = "snapchot_avalanche_delegator_"+str(datetime.datetime.now())[0:-16]
     print("saving snapchot to ",file)
     df[columns].to_markdown(file)
 #     curl -X POST --data '{
